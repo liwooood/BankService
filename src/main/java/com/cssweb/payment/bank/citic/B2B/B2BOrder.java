@@ -261,11 +261,11 @@ public class B2BOrder {
 
         ECCryptoProcessor processor	= new ECCryptoProcessor();
 
-        String signCert = FileUtil.readFile("e:/payment/bankservice/src/main/resources/citic/ecclient.cer");
+        String signCert = FileUtil.readFile("e:/payment/bankservice/src/main/resources/citic/b2b/ecclient.cer");
 
         System.out.println("证书=" + signCert);
 
-        String signPrivateKey = FileUtil.readFile("e:/payment/bankservice/src/main/resources/citic/ecclient.key");
+        String signPrivateKey = FileUtil.readFile("e:/payment/bankservice/src/main/resources/citic/b2b/ecclient.key");
         System.out.println("私钥=" + signPrivateKey);
 
         String privateKeyPassword = "vHtOaaY";
