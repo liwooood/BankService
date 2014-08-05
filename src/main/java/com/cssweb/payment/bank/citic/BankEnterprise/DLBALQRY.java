@@ -11,6 +11,8 @@ import com.thoughtworks.xstream.io.xml.StaxDriver;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * Created by chenhf on 2014/8/5.
@@ -76,9 +78,17 @@ public class DLBALQRY {
         sb.append(body);
 
         String xml = sb.toString();
+
+        //Pattern p = Pattern.compile("\\s*|\r|\n");
+        //Matcher m = p.matcher(xml);
+        //xml = m.replaceAll("");
+        xml = xml.replaceAll("\\s*|\r|\n", "");
+
         System.out.println(xml);
 
-        HttpClient http = new HttpClient("http://172.16.3.53:6789");
+        //String bankEnterpriseServer = "http://172.16.3.53:6789";
+        String bankEnterpriseServer = "http://127.0.0.1:8084/B2EC/E2BServlet";
+        HttpClient http = new HttpClient(bankEnterpriseServer);
         String response = http.postRequest2(xml);
         System.out.println("response = " + response);
 
