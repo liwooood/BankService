@@ -157,6 +157,11 @@ public class B2BOrder {
         System.out.println(xml);
 
 */
+        String orderTime = "";
+        Date now = new Date();
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
+        orderTime = sdf.format(now);
+
         StringBuffer sb = new StringBuffer();
         sb.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>");
         sb.append("<stream>");
@@ -197,7 +202,7 @@ public class B2BOrder {
 
         // 每次要加1
         sb.append("<MCTJNLNO>");
-        sb.append("000001002");
+        sb.append(orderTime);
         sb.append("</MCTJNLNO>");
 
         sb.append("<BSNNO>");
@@ -217,13 +222,10 @@ public class B2BOrder {
         sb.append("</PURPOSE>");
 
         sb.append("<ORDERNO>");
-        sb.append("000001");
+        sb.append(orderTime);
         sb.append("</ORDERNO>");
 
-        String orderTime = "";
-        Date now = new Date();
-        SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
-        orderTime = sdf.format(now);
+
 
         sb.append("<ORDERTIME>");
         sb.append(orderTime);
