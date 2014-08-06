@@ -21,6 +21,7 @@ import java.util.regex.Pattern;
 public class DLBALQRY {
     private String action;
     private String userName;
+    private static final String CHARSET = "UTF-8";
 
     @XStreamAlias("list")
     private DLBALQRYList list;
@@ -53,9 +54,9 @@ public class DLBALQRY {
     public static void main(String[] args)
     {
         StringBuffer sb = new StringBuffer();
-        sb.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n");
+        sb.append("<?xml version=\"1.0\" encoding=\""  + CHARSET + "\"?>\r\n");
 
-        XStream xstream = new XStream(new DomDriver("UTF-8"));
+        XStream xstream = new XStream(new DomDriver(CHARSET));
         xstream.autodetectAnnotations(true);
 
         DLBALQRY searchAccountBalance = new DLBALQRY();
@@ -82,22 +83,19 @@ public class DLBALQRY {
         //Pattern p = Pattern.compile("\\s*|\r|\n");
         //Matcher m = p.matcher(xml);
         //xml = m.replaceAll("");
-        xml = xml.replaceAll("\\s*|\r|\n", "");
+        //xml = xml.replaceAll("\\s*|\r|\n", "");
 
         System.out.println(xml);
 
-        //String bankEnterpriseServer = "http://172.16.3.53:6789";
-        String bankEnterpriseServer = "http://127.0.0.1:8084/B2EC/E2BServlet";
+        String bankEnterpriseServer = "http://172.16.3.53:6789";
+        //String bankEnterpriseServer = "http://127.0.0.1:8084/B2EC/E2BServlet";
+        //String bankEnterpriseServer = "http://127.0.0.1:6789";
+
         HttpClient http = new HttpClient(bankEnterpriseServer);
         String response = http.postRequest2(xml);
         System.out.println("response = " + response);
 
-        try {
-            String temp = new String(response.getBytes("GB2312"), "UTF-8");
-            System.out.println("temp = " + temp);
-        } catch (UnsupportedEncodingException e) {
-            e.printStackTrace();
-        }
+
 
     }
 
