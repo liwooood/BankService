@@ -1,0 +1,17 @@
+中信银行银企直联公网测试环境部署流程：
+1.    首先请到   https://enterprise.bank.ecitic.com/corporbank/corporbankInfoCenter/downloadCenter/downloadCenter.html    下载：
+01. 飞天USBkey驱动安装程序
+02. 银企直联客户端安装程序
+03. 安全控件
+以上软件请按顺序进行安装，安装时选择默认路径。
+2.    安装完成后，请将DLSYSCFG文件复制粘贴到C:\Program Files\CNCB\DLink\SysData路径下，覆盖原文件。
+3.    打开“测试环境证书.zip”，逐一安装四本证书，安装流程：双击打开→点击“安装证书”→下一步→选择“将所有证书放入下列储存区”，点击“浏览”→选择第二项“受信任的根证书颁发机构”，确定→下一步，以完成安装。
+4.    打开“cfca_vista.rar”，双击压缩包内exe文件，看到窗口闪黑一下即可。
+
+
+请修改c:\windows\system32\CITIC_PAYGATE_SYSCFG_B2B.XML内容中<host0>ec.test.bank.ecitic.com:443
+(win7 64位机位置在c:\windows\systerm32\syswow64)
+再重试。
+
+
+注意由于DLSYSCFG.xml是二进制形式，无法上传到git， 所以去掉了，保存在邮箱和e:\支付平台\银行

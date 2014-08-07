@@ -19,6 +19,12 @@
 开通业务：账务查询、内部转账、支付、直接支付、商务支付
 上面是我行分配的测试资源信息，请进行相应的测试，如有问题可及时联系。王育芳
 
+
+
+
+
+
+
 银企直联前置机程序下载
 http://www.cmbchina.com/corporate/firmbank/FirmbankInfo.aspx?guid=d0917853-6256-44ea-b1e2-24b8524042db
 
