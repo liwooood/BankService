@@ -26,10 +26,11 @@ public class B2COrder {
             PKCS7Tool pkcs7 = PKCS7Tool.getSigner(keyStorePath, keyStorePassword, keyPassword);
 
             BigDecimal newOrderAmount = orderAmount.setScale(2, BigDecimal.ROUND_HALF_UP);
-            String b2b = merchantNo + "|" + orderNo + "|" + curCode + "|" + newOrderAmount + "|" + orderTime;
-            System.out.println("b2b=" + b2b);
-            //  String b2c = orderNo + "|" + orderTime + "|" + curCode + "|" + newOrderAmount + "|" + merchantNo;
-            signData = pkcs7.sign(b2b.getBytes());
+
+
+            String b2c = orderNo + "|" + orderTime + "|" + curCode + "|" + newOrderAmount + "|" + merchantNo;
+
+            signData = pkcs7.sign(b2c.getBytes());
             System.out.println("signData=" + signData);
 
         } catch (GeneralSecurityException e) {

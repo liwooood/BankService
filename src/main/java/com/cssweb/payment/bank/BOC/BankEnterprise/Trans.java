@@ -1,4 +1,4 @@
-package com.cssweb.payment.bank.BOC;
+package com.cssweb.payment.bank.BOC.BankEnterprise;
 
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 

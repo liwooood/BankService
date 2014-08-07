@@ -1,5 +1,7 @@
 package com.cssweb.payment.bank.ABC.B2B;
 
+import com.hitrust.b2b.trustpay.client.b2b.*;
+
 /**
  * Created by chenhf on 2014/8/7.
  */

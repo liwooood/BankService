@@ -1,6 +1,5 @@
 package com.cssweb.network;
 
-import com.cssweb.payment.bank.BOC.BasicResponse;
 import org.apache.http.HttpEntity;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.config.RequestConfig;

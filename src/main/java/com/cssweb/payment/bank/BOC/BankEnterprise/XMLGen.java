@@ -1,4 +1,4 @@
-package com.cssweb.payment.bank.BOC;
+package com.cssweb.payment.bank.BOC.BankEnterprise;
 
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.StaxDriver;
