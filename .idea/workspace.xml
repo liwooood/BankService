@@ -2,72 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="492acc07-b471-4964-a2a1-93af119aa29f" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\ABC\B2B\农行网上支付平台-B2B直接支付商户-接口编程指南-Java_Edition-V1.3.pdf" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\ABC\B2B支付_JAVA_1.0.zip" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\ABC\B2C\农行网上支付平台-商户接口编程指南-Java_Edition-V2.0.14.pdf" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\ABC\B2C支付_Java_2.0.14.zip" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\20120810 U3铁道部证书--密码6个1.pfx" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\B2B\B2B商户端接口说明-B2B直付商户.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\B2B\B2B测试环境说明.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\B2C\B2C产品总接口.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\B2C\中国银行电子商务B2C直联商户测试须知.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\BankEnterprise\1、BOCNET银企对接新版接口规范标准版V1.5（基础金融服务类交易）.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\BankEnterprise\1、BOCNET银企对接新版接口规范标准版V1.5（基础金融服务类交易）_1_.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\BankEnterprise\CEC下属单位测试.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\BankEnterprise\个人卡号.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\u3环境根证书（公钥）.cer" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\中国银行B2B直付商户支付网关接口规范.rar" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\中国银行B2C商户支付网关接口规范Ver2.3.rar" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\中国银行电子商务B2C直联商户测试须知.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\测试账户.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\附件2-3：20120810 U3铁道部证书--密码6个1.pfx" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\BOC\附件2-4：BOC CA.cer" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CCB\B2C\0.商户开发手册.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CCB\B2C\1.商户接口规范.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CCB\B2C\3.防钓鱼支付接口.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CCB\BankEnterprise\P1新对公网银_外联平台企业开发接口_V6.4_20140118.chm" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CCB\QuickPayment\快捷支付总对总接口规范_20140530 (1).doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CCB\建行测试环境.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\B2B\企业银行商务支付WEB版开发指南1.0.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\B2C\商户校验码.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\B2C\常见问题解答.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\B2C\招商银行网上支付商户手册.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\B2C\招商银行网上支付系统-非招行卡收单功能开发说明.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\B2C\招行B2C开发文档131224(新)1.1 (1).zip" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\B2C\直联退款说明.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\BankEnterprise\招商银行银企直连开发指南2.0.8.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\BankEnterprise\招商银行银企直连开发指南2.1.7.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\BankEnterprise\招商银行银企直连接口说明书5.4.0.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\注意事项.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\CMB\测试信息.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2b\中信银行电子商务B2B-WEB直联接口说明书V1.0.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2b\中信银行电子商务B2B交易平台接入开发指南.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2b\中信银行电子商务B2B支付网关接口说明书V3.0.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2b\中信银行电子商务B2B支付网关签名和验签接口说明书.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2b\中信银行银企直联系统开发指南.chm" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2b\测试环境和账户信息.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2c\XIN.pfx" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2c\上海分行三.rar" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2c\上海分行三.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2c\中信银行B2C网上支付平台WEB模式订单查询方案.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2c\中信银行B2C网上支付平台接入开发指南.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2c\中信银行B2C网上支付平台签名和验签接口说明.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2c\中信银行B2C网上支付平台订单接口说明V1.2.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2c\中信银行B2C网上支付平台辅助软件导入导出文件接口说明.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2c\测试信息.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\b2c\测试环境和账户信息.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\测试环境安装步骤.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\银企直联\TESTOCA1.zip" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\银企直联\cfca_vista.rar" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\银企直联\中信银行B2C网上支付平台开发指南.rar" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\银企直联\中信银行B2C网上支付平台银企直联接口说明.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\银企直联\中信银行电子商务B2B交易平台接入指南.rar" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\银企直联\中信银行电子商务B2B银企直联接口说明书V3.0.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\银企直联\中信银行银企直联开发代码示例.rar" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\银企直联\中信银行银企直联接口说明书(集团客户)V4.2.0.0.doc" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\银企直联\测试环境证书.zip" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\citic\银企直联\银企直联开发测试相关文档（141环境）.rar" afterPath="" />
-      <change type="DELETED" beforePath="E:\payment\BankService\doc\银行系统技术对接.xlsx" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="268d9054-78c2-4719-899e-0d665ac18717" name="Failed commit: Default" comment="commit" />
@@ -110,8 +44,8 @@
       <file leaf-file-name="B2COrder.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/cmb/B2C/B2COrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42492014" vertical-offset="684" max-vertical-offset="1368">
-              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+            <state vertical-scroll-proportion="-0.76602566" vertical-offset="744" max-vertical-offset="1368">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -1226,7 +1160,7 @@
       <workItem from="1407288412227" duration="5099000" />
       <workItem from="1407375256948" duration="12991000" />
       <workItem from="1407391619513" duration="8571000" />
-      <workItem from="1407405863563" duration="7000" />
+      <workItem from="1407405863563" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1407162035534</created>
@@ -1284,11 +1218,15 @@
       <created>1407403699420</created>
       <updated>1407403699420</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit">
+      <created>1407405883204</created>
+      <updated>1407405883204</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56163000" />
+    <option name="totallyTimeSpent" value="56207000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1327,6 +1265,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882884" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43674698" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18273093" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1338,7 +1277,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43674698" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1422,6 +1360,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.72596157" vertical-offset="4506" max-vertical-offset="9063">
           <caret line="261" column="53" selection-start-line="261" selection-start-column="53" selection-end-line="261" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1698,8 +1637,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/cmb/B2C/B2COrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42492014" vertical-offset="684" max-vertical-offset="1368">
-          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        <state vertical-scroll-proportion="-0.76602566" vertical-offset="744" max-vertical-offset="1368">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding />
         </state>
       </provider>
