@@ -21,7 +21,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/lib/citic" />
+          <root url="file://$MODULE_DIR$/lib/CITIC" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
