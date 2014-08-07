@@ -1,3 +1,0 @@
-•	修改system32\drivers\etc\hosts文件，增加两行数据：
-58.61.30.96 site.cmbchina.com
-58.61.30.96 test.cmbchina.com

@@ -1,1 +1,0 @@
-https://ec.test.bank.ecitic.com/pec/e3rdplaceorder.do?SIGNREQMSG=订单签名数据
