@@ -1,5 +1,11 @@
 package com.cssweb.payment.bank.ABC.B2C;
 
+
+import com.hitrust.trustpay.client.TrxException;
+import com.hitrust.trustpay.client.b2c.Order;
+import com.hitrust.trustpay.client.b2c.OrderItem;
+import com.hitrust.trustpay.client.b2c.PaymentRequest;
+
 /**
  * Created by chenhf on 2014/8/7.
  */

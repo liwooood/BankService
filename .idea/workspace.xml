@@ -2,16 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="492acc07-b471-4964-a2a1-93af119aa29f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/BOC/20120810 U3铁道部证书--密码6个1.pfx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ABC/TrustPayClient-B2B-V1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ABC/TrustPayClient-V2.0.14.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CMB/cmb.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/CCB/netpay.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/BOC/pkcs7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/ABC/B2B/B2BOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/BOC/B2B/B2BOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/ABC/B2C/B2COrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/BOC/B2C/B2COrder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CCB/B2C/0.商户开发手册.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CCB/B2C/1.商户接口规范.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/BOC/BankEnterprise/1、BOCNET银企对接新版接口规范标准版V1.5（基础金融服务类交易）.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/BOC/BankEnterprise/1、BOCNET银企对接新版接口规范标准版V1.5（基础金融服务类交易）_1_.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CCB/B2C/3.防钓鱼支付接口.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/BOC/B2B/B2B商户端接口说明-B2B直付商户.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/BOC/B2C/B2C产品总接口.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/BOC/BankEnterprise/CEC下属单位测试.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CCB/BankEnterprise/P1新对公网银_外联平台企业开发接口_V6.4_20140118.chm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/BOC/BankEnterprise/个人卡号.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/b2c/中信银行B2C网上支付平台WEB模式订单查询方案.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/b2c/中信银行B2C网上支付平台接入开发指南.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/b2c/中信银行B2C网上支付平台签名和验签接口说明.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/b2c/中信银行B2C网上支付平台订单接口说明V1.2.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/b2c/中信银行B2C网上支付平台辅助软件导入导出文件接口说明.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/银企直联/中信银行B2C网上支付平台银企直联接口说明.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/b2b/中信银行电子商务B2B-WEB直联接口说明书V1.0.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/b2b/中信银行电子商务B2B交易平台接入开发指南.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/b2b/中信银行电子商务B2B支付网关接口说明书V3.0.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/b2b/中信银行电子商务B2B支付网关签名和验签接口说明书.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/银企直联/中信银行电子商务B2B银企直联接口说明书V3.0.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/b2b/中信银行银企直联系统开发指南.chm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/BOC/B2C/中国银行电子商务B2C直联商户测试须知.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CMB/B2B/企业银行商务支付WEB版开发指南1.0.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/ABC/B2B/农行网上支付平台-B2B直接支付商户-接口编程指南-Java_Edition-V1.3.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/ABC/B2C/农行网上支付平台-商户接口编程指南-Java_Edition-V2.0.14.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CMB/B2C/商户校验码.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CMB/B2C/常见问题解答.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CMB/B2C/招商银行网上支付商户手册.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CMB/B2C/招商银行网上支付系统-非招行卡收单功能开发说明.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CMB/BankEnterprise/招商银行银企直连开发指南2.0.8.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CMB/BankEnterprise/招商银行银企直连开发指南2.1.7.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CMB/BankEnterprise/招商银行银企直连接口说明书5.10.0.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CMB/BankEnterprise/招商银行银企直连接口说明书5.4.0.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CMB/B2C/直联退款说明.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/BOC/B2B/B2B测试环境说明.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/CMB/测试信息.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/citic/b2c/测试环境和账户信息.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/ABC/B2C/B2COrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/ABC/B2C/B2COrder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/BOC/B2C/B2COrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/BOC/B2C/B2COrder.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankService.iml" afterPath="$PROJECT_DIR$/BankService.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -39,8 +69,38 @@
       <file leaf-file-name="B2BOrder.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/citic/B2B/B2BOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="4013" max-vertical-offset="4883">
-              <caret line="263" column="62" selection-start-line="263" selection-start-column="62" selection-end-line="263" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="3994" max-vertical-offset="4883">
+              <caret line="267" column="45" selection-start-line="267" selection-start-column="45" selection-end-line="268" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B2B测试环境说明.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/BOC/B2B/B2B测试环境说明.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="874">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="测试信息.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/CMB/测试信息.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="722">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="测试环境和账户信息.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/citic/b2b/测试环境和账户信息.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.49430895" vertical-offset="0" max-vertical-offset="615">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -69,9 +129,11 @@
       <file leaf-file-name="B2COrder.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/ABC/B2C/B2COrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="181" max-vertical-offset="912">
-              <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1026">
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,12 +148,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="B2COrder.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="B2COrder.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/BOC/B2C/B2COrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2665563" vertical-offset="124" max-vertical-offset="855">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="969">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,36 +165,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4161">
               <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SaxHandler.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/cmb/SaxHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="1463">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XmlPacket.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/cmb/XmlPacket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="2983">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DLBALQRY.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/citic/BankEnterprise/DLBALQRY.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="893" max-vertical-offset="2052">
-              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -156,7 +190,6 @@
         <option value="$PROJECT_DIR$/doc/citic/b2c/上海分行三.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/citic/B2C/B2COrder.java" />
         <option value="$PROJECT_DIR$/doc/citic/b2c/测试信息.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/citic/B2B/B2BOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/citic/BankEnterprise/DLBALQRYRow.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/citic/BankEnterprise/DLBALQRYList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/citic/BankEnterprise/DLBALQRY.java" />
@@ -166,10 +199,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/cmb/SaxHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/cmb/HttpRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/ABC/B2B/B2BOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/ABC/B2C/B2COrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/BOC/B2B/B2B.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/BOC/B2B/B2BOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/BOC/B2C/B2COrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/ABC/B2C/B2COrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/citic/B2B/B2BOrder.java" />
       </list>
     </option>
   </component>
@@ -449,6 +483,48 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citic" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cssweb" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="citic" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B2B" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -785,6 +861,38 @@
               <option name="myItemId" value="doc" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CMB" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="citic" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
@@ -834,6 +942,192 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CCB" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CCB" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankEnterprise" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOC" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOC" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankEnterprise" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOC" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B2C" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOC" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B2B" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ABC" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ABC" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B2C" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BankService" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ABC" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B2B" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -847,11 +1141,11 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/ICBC" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
@@ -859,18 +1153,18 @@
       <recent name="com.cssweb.payment.bank.citic" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\payment\BankService\doc" />
+      <recent name="E:\payment\BankService\doc\ABC\B2B" />
+      <recent name="E:\payment\BankService\doc\ABC\B2C" />
       <recent name="E:\payment\BankService\lib\BOC" />
       <recent name="E:\payment\BankService\doc\citic\b2b" />
-      <recent name="E:\payment\BankService\src\main\resources\citic\b2c" />
-      <recent name="E:\payment\BankService\doc\citic\b2c" />
-      <recent name="E:\payment\BankService\src\main\java\com\cssweb\payment\bank\citic\B2B" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\payment\BankService\src\main\resources\BOC" />
-      <recent name="E:\payment\BankService\lib\CMB" />
-      <recent name="E:\payment\BankService\lib\CCB" />
-      <recent name="E:\payment\BankService\lib" />
-      <recent name="E:\payment\BankService\lib\ABC" />
+      <recent name="E:\payment\BankService\doc\citic\b2b" />
+      <recent name="E:\payment\BankService\doc\citic\b2c" />
+      <recent name="E:\payment\BankService\doc\citic\银企直联" />
+      <recent name="E:\payment\BankService\doc\CMB" />
+      <recent name="E:\payment\BankService\doc\CMB\BankEnterprise" />
     </key>
   </component>
   <component name="RunManager" selected="Application.B2BOrder">
@@ -1209,7 +1503,7 @@
       <workItem from="1407201695989" duration="21289000" />
       <workItem from="1407246874697" duration="3753000" />
       <workItem from="1407288412227" duration="5099000" />
-      <workItem from="1407375256948" duration="1905000" />
+      <workItem from="1407375256948" duration="3726000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1407162035534</created>
@@ -1239,11 +1533,15 @@
       <created>1407297879216</created>
       <updated>1407297879216</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <created>1407377170368</created>
+      <updated>1407377170368</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36499000" />
+    <option name="totallyTimeSpent" value="38320000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1282,18 +1580,18 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882884" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18273093" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19339934" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21954484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21954484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31174698" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1326,21 +1624,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/citic/b2b/ecclient.pwd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="114">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/citic/B2B/B2BOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1995" max-vertical-offset="5624">
-          <caret line="105" column="56" selection-start-line="105" selection-start-column="56" selection-end-line="105" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc/citic/b2c/上海分行三.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="228">
@@ -1460,6 +1743,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.72596157" vertical-offset="4506" max-vertical-offset="9063">
           <caret line="261" column="53" selection-start-line="261" selection-start-column="53" selection-end-line="261" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1593,14 +1877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/citic/b2b/测试环境和账户信息.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="41" max-vertical-offset="494">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="233" max-vertical-offset="570">
@@ -1629,14 +1905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="1634">
           <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/citic/B2B/B2BOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4013" max-vertical-offset="4883">
-          <caret line="263" column="62" selection-start-line="263" selection-start-column="62" selection-end-line="263" selection-end-column="62" />
           <folding />
         </state>
       </provider>
@@ -1681,14 +1949,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/ABC/B2C/B2COrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="181" max-vertical-offset="912">
-          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/BOC/B2B/B2BOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247">
@@ -1699,8 +1959,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/BOC/B2C/B2COrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2665563" vertical-offset="124" max-vertical-offset="855">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="969">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/ABC/B2C/B2COrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1026">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cssweb/payment/bank/citic/B2B/B2BOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3994" max-vertical-offset="4883">
+          <caret line="267" column="45" selection-start-line="267" selection-start-column="45" selection-end-line="268" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/BOC/B2B/B2B测试环境说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="874">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/CMB/测试信息.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="722">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/citic/b2b/测试环境和账户信息.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49430895" vertical-offset="0" max-vertical-offset="615">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
           <folding />
         </state>
       </provider>
