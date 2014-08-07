@@ -1,12 +1,10 @@
 package com.cssweb.payment.bank.citic.B2C;
 
 
-import com.cssweb.payment.bank.citic.B2B.FileUtil;
+import com.cssweb.util.FileUtil;
 import com.lsy.baselib.crypto.exception.ECCryptoProcessorException;
 import com.lsy.baselib.crypto.processor.ECCryptoProcessor;
-import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.annotations.XStreamAlias;
-import com.thoughtworks.xstream.io.xml.StaxDriver;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

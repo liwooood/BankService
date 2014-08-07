@@ -21,7 +21,7 @@ import java.util.regex.Pattern;
 public class DLBALQRY {
     private String action;
     private String userName;
-    private static final String CHARSET = "UTF-8";
+    private static final String CHARSET = "GB2312";
 
     @XStreamAlias("list")
     private DLBALQRYList list;

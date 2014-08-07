@@ -1,4 +1,4 @@
-package com.cssweb.payment.bank.citic.B2B;
+package com.cssweb.util;
 
 import java.io.*;
 

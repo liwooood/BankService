@@ -1,5 +1,6 @@
 package com.cssweb.payment.bank.citic.B2B;
 
+import com.cssweb.util.FileUtil;
 import com.lsy.baselib.crypto.exception.ECCryptoProcessorException;
 import com.lsy.baselib.crypto.processor.ECCryptoProcessor;
 import com.thoughtworks.xstream.annotations.XStreamAlias;

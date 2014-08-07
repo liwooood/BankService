@@ -913,7 +913,7 @@ public class XMLGen {
 
 
 
-     //  test.login();
+       test.login();
 
 /*
         test.getBalance("40142", "319456082671");
