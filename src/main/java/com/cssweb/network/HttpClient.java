@@ -20,7 +20,7 @@ import java.net.URL;
 public class HttpClient {
 
     private String bankEnterpriseServer;
-    private final String CHARSET = "UTF-8";
+    private final String CHARSET = "GB2312";
 
     public HttpClient(String bankEnterpriseServer)
     {
