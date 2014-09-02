@@ -1,4 +1,4 @@
-package com.cssweb.payment.bank.citic.B2B;
+package com.cssweb.payment.bank.CITIC.B2B;
 
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 import com.thoughtworks.xstream.annotations.XStreamAsAttribute;

@@ -1,4 +1,4 @@
-package com.cssweb.payment.bank.citic.B2B;
+package com.cssweb.payment.bank.CITIC.B2B;
 
 import com.cssweb.util.FileUtil;
 import com.lsy.baselib.crypto.exception.ECCryptoProcessorException;
@@ -264,11 +264,11 @@ public class B2BOrder {
 
         ECCryptoProcessor processor	= new ECCryptoProcessor();
 
-        String signCert = FileUtil.readFile("e:/payment/bankservice/src/main/resources/citic/b2b/ecclient.cer");
+        String signCert = FileUtil.readFile("e:/payment/bankservice/src/main/resources/CITIC/b2b/ecclient.cer");
 
         System.out.println("证书=" + signCert);
 
-        String signPrivateKey = FileUtil.readFile("e:/payment/bankservice/src/main/resources/citic/b2b/ecclient.key");
+        String signPrivateKey = FileUtil.readFile("e:/payment/bankservice/src/main/resources/CITIC/b2b/ecclient.key");
         System.out.println("私钥=" + signPrivateKey);
 
         String privateKeyPassword = "vHtOaaY";

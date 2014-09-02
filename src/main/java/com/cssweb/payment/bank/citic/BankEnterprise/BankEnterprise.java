@@ -1,4 +1,4 @@
-package com.cssweb.payment.bank.citic.BankEnterprise;
+package com.cssweb.payment.bank.CITIC.BankEnterprise;
 
 /**
  * Created by chenhf on 2014/8/5.

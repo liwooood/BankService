@@ -1,4 +1,4 @@
-package com.cssweb.payment.bank.citic.B2B;
+package com.cssweb.payment.bank.CITIC.B2B;
 
 /**
  * Created by chenhf on 2014/8/3.

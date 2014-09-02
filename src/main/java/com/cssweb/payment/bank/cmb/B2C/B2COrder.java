@@ -1,4 +1,4 @@
-package com.cssweb.payment.bank.cmb.B2C;
+package com.cssweb.payment.bank.CMB.B2C;
 
 /**
  * Created by chenhf on 2014/7/30.
@@ -46,7 +46,7 @@ public class B2COrder {
     {
         String notifyResult = "http://cashier.cecpay.com/notify?Succeed=Y&CoNo=000818&BillNo=000000&Amount=100.00&Date=20140731&MerchantPara=k=v&BillExInfo=00622609******61810000000000000000000000000000000000000000000000&Msg=00100008182014073100000000000000000000&Signature=124|74|130|221|6|217|254|246|179|6|251|21|2|55|190|60|189|222|233|97|1|12|129|144|16|127|66|238|134|225|142|235|91|213|172|166|56|7|9|60|198|174|146|234|79|207|155|202|125|62|135|145|116|171|252|212|79|10|122|108|169|252|71|182|";
         try {
-            cmb.netpayment.Security cmb = new cmb.netpayment.Security("cmb.public.key");
+            cmb.netpayment.Security cmb = new cmb.netpayment.Security("CMB.public.key");
             cmb.checkInfoFromBank(notifyResult.getBytes());
         } catch (Exception e) {
             e.printStackTrace();

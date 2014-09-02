@@ -1,4 +1,4 @@
-package com.cssweb.payment.bank.cmb.BankEnterprise;
+package com.cssweb.payment.bank.CMB.BankEnterprise;
 
 import java.io.*;
 import java.net.*;

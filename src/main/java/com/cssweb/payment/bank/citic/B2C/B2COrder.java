@@ -1,4 +1,4 @@
-package com.cssweb.payment.bank.citic.B2C;
+package com.cssweb.payment.bank.CITIC.B2C;
 
 
 import com.cssweb.util.FileUtil;
@@ -267,11 +267,11 @@ public class B2COrder {
 
         ECCryptoProcessor processor	= new ECCryptoProcessor();
 
-        String signCert = FileUtil.readFile("e:/payment/bankservice/src/main/resources/citic/b2c/ecclient.cer");
+        String signCert = FileUtil.readFile("e:/payment/bankservice/src/main/resources/CITIC/b2c/ecclient.cer");
 
         System.out.println("证书=" + signCert);
 
-        String signPrivateKey = FileUtil.readFile("e:/payment/bankservice/src/main/resources/citic/b2c/ecclient.key");
+        String signPrivateKey = FileUtil.readFile("e:/payment/bankservice/src/main/resources/CITIC/b2c/ecclient.key");
         System.out.println("私钥=" + signPrivateKey);
 
         String privateKeyPassword = "dBacqjp";

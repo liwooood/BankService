@@ -1,18 +1,12 @@
-package com.cssweb.payment.bank.citic.BankEnterprise;
+package com.cssweb.payment.bank.CITIC.BankEnterprise;
 
 import com.cssweb.network.HttpClient;
-import com.cssweb.payment.bank.citic.B2B.TranList;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.annotations.XStreamAlias;
-import com.thoughtworks.xstream.io.xml.Dom4JDriver;
 import com.thoughtworks.xstream.io.xml.DomDriver;
-import com.thoughtworks.xstream.io.xml.StaxDriver;
 
-import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * Created by chenhf on 2014/8/5.
