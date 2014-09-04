@@ -21,8 +21,8 @@ public class B2COrder {
         tOrder.setOrderURL(""); //设定订单网址
         tOrder.setBuyIP("");       //设定订单IP
 //3、生成定单订单对象，并将订单明细加入定单中（可选信息）
-        tOrder.addOrderItem(new OrderItem("IP000001", "中国移动IP卡", 100.00f, 1));
-        tOrder.addOrderItem(new OrderItem("IP000002", "网通IP卡"    ,  90.00f, 2));
+       // tOrder.addOrderItem(new OrderItem("IP000001", "中国移动IP卡", 100.00f, 1));
+        //tOrder.addOrderItem(new OrderItem("IP000002", "网通IP卡"    ,  90.00f, 2));
 
         PaymentRequest tPaymentRequest = new PaymentRequest();
         tPaymentRequest.setOrder      (tOrder      ); //设定支付请求的订单 （必要信息）

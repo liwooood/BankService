@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="gb2312"?>
+<BOCOMB2C>	
+	<Setting>T</Setting>	<!-- T为测试环境，P为生产环境 -->
+	<ConnetionTimeOut>10000</ConnetionTimeOut>				<!--连接超时设置（毫秒）-->
+	<ReadTimeOut>10000</ReadTimeOut>				<!--读取超时设置（毫秒）-->
+	<Certs>
+		<CertInf>
+			<MerchantCertFile>E:/payment/BankService/src/main/resources/BankComm/B2C/301310063009501.PFX</MerchantCertFile>	<!--测试环境商户证书文件（绝对路径）,商户上线时该证书换为商户生产证书-->
+			<MerchantCertPassword>12345678</MerchantCertPassword> 													<!--测试环境商户证书私钥加密密码,商户上线时该密码换为商户生产证书密码-->
+		</CertInf>
+	</Certs>
+
+</BOCOMB2C>

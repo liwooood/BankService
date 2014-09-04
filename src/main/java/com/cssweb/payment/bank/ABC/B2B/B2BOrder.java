@@ -8,7 +8,7 @@ import com.hitrust.b2b.trustpay.client.b2b.*;
 public class B2BOrder {
 
     public String abcB2BPayment() {
-
+/*
         //2、生成TrnxInfo对象
         TrnxItems tTrnxItems = new TrnxItems();
         tTrnxItems.addTrnxItem(new TrnxItem("0001",     "显示器",       1000.00f, 2));
@@ -40,7 +40,7 @@ public class B2BOrder {
         tFundTransferRequest.setMerchantRemarks("");             //设定商户备注信息
 
         // tFundTransferRequest.genSignature();
-
+*/
         return null;
     }
 }
