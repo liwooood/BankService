@@ -309,6 +309,7 @@ public class BankCommB2COrder implements BankOrderAction{
         if (ret != 0)
         {
             System.out.println("初始化失败");
+            System.out.println("初始化失败");
             System.out.println(client.getLastErr());
             return ;
         }

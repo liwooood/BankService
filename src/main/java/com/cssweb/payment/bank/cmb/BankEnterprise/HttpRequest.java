@@ -18,6 +18,7 @@ public class HttpRequest {
      */
 
     private String toPersonal() {
+        /*
         // 构造支付的请求报文
         XmlPacket xmlPkt = new XmlPacket("AgentRequest", "银企直连专用集团1");
 
@@ -41,8 +42,11 @@ public class HttpRequest {
         xmlPkt.putProperty("SDKATDRQX", mpPayInfo);
 
         return xmlPkt.toXmlString();
+        */
+        return "";
     }
     private void toPersonalResult(String result) {
+        /*
         if (result != null && result.length() > 0) {
             XmlPacket pktRsp = XmlPacket.valueOf(result);
             if (pktRsp != null) {
@@ -51,27 +55,29 @@ public class HttpRequest {
                     Map propPayResult = pktRsp.getProperty("NTREQNBRY", 0);
                     String sREQNBR = (String) propPayResult.get("REQNBR");
 
-                   /*
-                    if (sREQSTS.equals("FIN") && sRTNFLG.equals("F")) {
-                        System.out.println("支付失败："
-                                + propPayResult.get("ERRTXT"));
-                    } else {
-                        System.out.println("支付已被银行受理（支付状态：" + sREQSTS + "）");
-                    }
-                    */
+
+                   // if (sREQSTS.equals("FIN") && sRTNFLG.equals("F")) {
+                     //   System.out.println("支付失败："
+                       //         + propPayResult.get("ERRTXT"));
+                    //} else {
+                    //    System.out.println("支付已被银行受理（支付状态：" + sREQSTS + "）");
+                   // }
+
                 } else if (sRetCod.equals("-9")) {
-                    System.out.println("支付未知异常，请查询支付结果确认支付状态，错误信息："
-                            + pktRsp.getERRMSG());
-                } else {
+                    System.out.println("支付未知异常，请查询支付结果确认支付状态，错误信息："     + pktRsp.getERRMSG());
+                }
+
                     System.out.println("支付失败：" + pktRsp.getERRMSG());
                 }
             } else {
                 System.out.println("响应报文解析失败");
             }
         }
+        */
     }
 
     private String searchAccount() {
+        /*
         // 构造支付的请求报文
         XmlPacket xmlPkt = new XmlPacket("GetAccInfo", "商户41");
 
@@ -83,6 +89,8 @@ public class HttpRequest {
 
 
         return xmlPkt.toXmlString();
+        */
+        return "";
     }
 
     /**
@@ -94,6 +102,7 @@ public class HttpRequest {
      */
     private String sendRequest(String data) {
         String result = "";
+        /*
         try {
             URL url;
             url = new URL("http://localhost:8080");
@@ -126,7 +135,7 @@ public class HttpRequest {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
-        }
+        }*/
         return result;
     }
 
@@ -136,6 +145,7 @@ public class HttpRequest {
      * @param result
      */
     private void searchAccountResult(String result) {
+        /*
         if (result != null && result.length() > 0) {
             XmlPacket pktRsp = XmlPacket.valueOf(result);
             if (pktRsp != null) {
@@ -151,14 +161,14 @@ public class HttpRequest {
                     String sONLBLV = (String) propPayResult.get("ONLBLV");
                     String sSTSCOD = (String) propPayResult.get("STSCOD");
                     String sOPNDAT = (String) propPayResult.get("OPNDAT");
-                   /*
-                    if (sREQSTS.equals("FIN") && sRTNFLG.equals("F")) {
-                        System.out.println("支付失败："
-                                + propPayResult.get("ERRTXT"));
-                    } else {
-                        System.out.println("支付已被银行受理（支付状态：" + sREQSTS + "）");
-                    }
-                    */
+
+                   // if (sREQSTS.equals("FIN") && sRTNFLG.equals("F")) {
+                    //    System.out.println("支付失败："
+                     //           + propPayResult.get("ERRTXT"));
+                    //} else {
+                     //   System.out.println("支付已被银行受理（支付状态：" + sREQSTS + "）");
+                    //}
+
                 } else if (sRetCod.equals("-9")) {
                     System.out.println("支付未知异常，请查询支付结果确认支付状态，错误信息："
                             + pktRsp.getERRMSG());
@@ -169,7 +179,7 @@ public class HttpRequest {
                 System.out.println("响应报文解析失败");
             }
         }
-
+*/
         /*
         if (result != null && result.length() > 0) {
             XmlPacket pktRsp = XmlPacket.valueOf(result);
